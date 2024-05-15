@@ -6,5 +6,5 @@
 
 
 // line 2 in "MFRC522 File" ------------------------> Chat-GPT prompt "what library promo is used for RFID sensor in arduino"
-// lines 14 - 22 in "MFRC522 File ------------------> Chat-GPT prompt "Fix the syntax here (C++ arduino code)"
-// lines 52 - 54 in "MFRC522 File ------------------> Black box AI prompt "How to erase RFID sensor memory without loosing code"
+// lines 14 - 22 in "identify_RFID.ino" ------------> Chat-GPT prompt "Fix the syntax here (C++ arduino code)"
+// lines 52 - 54 in "identify_RFID.ino" ------------> Black box AI prompt "How to erase RFID sensor memory without loosing code"
